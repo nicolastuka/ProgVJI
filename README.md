@@ -21,7 +21,7 @@ _Ejemplos de la materia Programación de Videojuegos I de la UNL_
   3.- El mismo ejemplo anterior pero con SFML.<br />
 
 ## Árboles:<br />
-  ***1.- Árbol binario.***<br />
+  1.- Árbol binario.<br />
   
-##
+## Aclaración
 Todos los ejemplos que se encuentran en proyectos pertenecen a Visual Studio 2017, pero se extraer los archivos para compilar con otros compiladores.
