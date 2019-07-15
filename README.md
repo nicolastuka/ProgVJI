@@ -3,9 +3,9 @@
 _Ejemplos de la materia Programación de Videojuegos I de la UNL_
 
 ## Arreglos:
-*1.- SFML: Ejemplos de SFML para ir conociendo un poco la librería multimedia._
-*2.- Ordenamiento de arreglos: Quicksort, inserción, burbuja y selección.*
-*3.- Promedio ordenado: Ejemplo de aplicación de ordenamiento de arreglos combinado con SFML.
+***1.- SFML: Ejemplos de SFML para ir conociendo un poco la librería multimedia.
+***2.- Ordenamiento de arreglos: Quicksort, inserción, burbuja y selección.*
+***3.- Promedio ordenado: Ejemplo de aplicación de ordenamiento de arreglos combinado con SFML.
 
 ## Listas:
   Pilas y Colas:
