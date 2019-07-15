@@ -1,4 +1,6 @@
-Ejemplos de la materia Programación de Videojuegos I de la UNL
+#Programación de Videojuegos I
+
+_Ejemplos de la materia Programación de Videojuegos I de la UNL
 
 Arreglos:
 1.- SFML: Ejemplos de SFML para ir conociendo un poco la librería multimedia.
