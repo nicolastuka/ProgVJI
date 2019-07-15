@@ -8,7 +8,7 @@ _Ejemplos de la materia Programación de Videojuegos I de la UNL_
 ***3.- Promedio ordenado: Ejemplo de aplicación de ordenamiento de arreglos combinado con SFML.***<br />
 
 ## Listas:
-  Pilas y Colas:
+  Pilas y Colas:<br />
   ***1.- Ejemplo de Pilas.***<br />
   ***2.- Ejemplo de Colas.***<br />
   ***3.- Ejemplo de Pilas con SFML.***<br />
@@ -20,7 +20,8 @@ _Ejemplos de la materia Programación de Videojuegos I de la UNL_
   ***2.- Ejemplo de lista de players.***<br />
   ***3.- El mismo ejemplo anterior pero con SFML.***<br />
 
-## Árboles:
+## Árboles:<br />
   ***1.- Árbol binario.***<br />
   
+##
 Todos los ejemplos que se encuentran en proyectos pertenecen a Visual Studio 2017, pero se extraer los archivos para compilar con otros compiladores.
